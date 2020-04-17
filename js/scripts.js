@@ -36,8 +36,7 @@ window.onload = function() {
     'I\'m currently looking for job opportunities.<br> You can contact me at <a href="wanchaoa@gmail.com">wanchaoa@gmail.com</a>',
     '<a target="_blank" href="https://www.linkedin.com/in/chao-wan-58292a162/">www.linkedin.com/chao-wan</a>' +
     '<br>' +
-    '<a target="_blank" href="https://leetcode.com/chaowan_2020/">leetcode.com/chaowan_2020/</a>' +
-    '<br><a target="_blank" href="../resume/ChaoWan_Resume2020">ChaoWan_Resume2020</a>',
+    '<a target="_blank" href="https://leetcode.com/chaowan_2020/">leetcode.com/chaowan_2020/</a>' ,
     getCurrentTime(),
     '👀 C.'
   ]
