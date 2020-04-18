@@ -74,3 +74,7 @@ body {
   display: inline-block;
   color: rgba(0,0,0,.5);
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
